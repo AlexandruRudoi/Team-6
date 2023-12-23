@@ -21,7 +21,7 @@ Explain how to use the project or interact with the application (if it's a web o
 - Moisenco Ciprian
 - Marga Nicolae
 - Imandii Ion
-- Lopasco Cristian
+- Lopașco Cristian
 
 ## Acknowledgements
 If you utilized any third-party resources, libraries, or open-source projects, acknowledge them here.
