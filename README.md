@@ -1,7 +1,7 @@
 # Team 6
 
 ## Description
-This project, developed during [Hackathon Name], aims to [briefly describe the purpose and objective of the project]. We endeavor to [specific problem or goal].
+This project, developed during [XMAS FAF HACKATHON], aims to develop a robust OCR model that accurately recognizes characters from handwritten schedules, ensuring a seamless transition from paper tables to digital tables. This technology should enhance the overall schedule management process, making it more reliable and accessible.
 
 ## Features
 - List the key features and functionalities implemented during the hackathon.
@@ -18,10 +18,10 @@ Explain how to use the project or interact with the application (if it's a web o
 
 ## Team Members
 - Alexandru Rudoi
-- Moisenco Ciprian
-- Marga Nicolae
-- Imandii Ion
-- Lopașco Cristian
+- Ciprian Moisenco
+- Nicolae Marga 
+- Ion Iamandii
+- Cristian Lupașco
 
 ## Acknowledgements
 If you utilized any third-party resources, libraries, or open-source projects, acknowledge them here.
@@ -30,12 +30,7 @@ If you utilized any third-party resources, libraries, or open-source projects, a
 Highlight potential future enhancements, features, or improvements beyond the hackathon scope.
 
 ## Demo
-If available, include a link or instructions for accessing a demo or live version of the project.
+Coming Soon...
 
 ## License
-Specify the project's license if applicable.
-
-## Contact Information
-Provide contact details or ways to reach out to the team for inquiries or collaboration opportunities.
-
-Please fill in the relevant details for each section and customize the template to match your project's specifics.
+XMAS FAF HACKATHON
