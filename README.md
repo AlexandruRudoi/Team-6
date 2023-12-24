@@ -26,4 +26,4 @@ Highlight potential future enhancements, features, or improvements beyond the ha
 Coming Soon...
 
 ## License
-XMAS FAF HACKATHON
+FAF NGO
